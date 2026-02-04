@@ -1,4 +1,4 @@
-public class Test {
+public class Test 
 
     // Addition
     static void add(int a, int b) {
